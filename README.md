@@ -133,6 +133,7 @@ $ roslaunch my_robot mapping.launch
 $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 ```
 * Remember to rename your ~/.ros/rtabmap.db before your next attempt since it will be deleted due to the launch file setting in mapping.launch
+
 The code was tested on the following specifications:
 - **Processor:** `Intel Core i7-10875H`
 - **Graphics:** `Nvidia GeForce GTX 1650 Ti 4GB GDDR6`

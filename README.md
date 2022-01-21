@@ -99,7 +99,7 @@ $ git clone https://github.com/aws-robotics/aws-robomaker-small-house-world
 $ cd /home/workspace/catkin_ws/src/Where-am-I/src/
 $ git clone https://github.com/ros-teleop/teleop_twist_keyboard
 ```
-#### Build the `Where-am-I` project
+#### Build the `Map-My-World` project
 ```sh
 $ cd /home/workspace/catkin_ws/ 
 $ catkin_make

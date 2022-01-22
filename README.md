@@ -62,9 +62,7 @@ sudo apt-get install ros-${ROS_DISTRO}-rtabmap-ros
 │   │   ├── my_robot                           # my_robot package        
 │   │   │   ├── launch                         # launch folder for launch files  
 │   │   │   │   ├── mapping.launch
-│   │   │   │   ├── robot_description.launch
-│   │   │   │   ├── rtabmap.db                 #database
-│   │   │   │   ├── world.launch               # Launches bookstore world
+│   │   │   │   ├── robot_description.launch│   │   │   │   ├── world.launch               # Launches bookstore world
 │   │   │   │   ├── teleop.launch              # To drive the rosbot
 │   │   │   ├── meshes                         # meshes folder for sensors
 │   │   │   │   ├── astra.stl
@@ -81,6 +79,7 @@ sudo apt-get install ros-${ROS_DISTRO}-rtabmap-ros
 │   │   │   ├── worlds                         # world folder for world files
 │   │   │   │   ├── empty.world
 │   │   │   ├── CMakeLists.txt                 # compiler instructions
+│   │   │   │   ├── rtabmap.db                 # database
 │   │   │   ├── package.xml                    # package info
 ```
 ## How To Launch

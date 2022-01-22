@@ -26,6 +26,8 @@
   <a href="#testing">Testing</a>
 </p>
 
+![](https://github.com/Vamshi2198/Map-My-World/blob/main/src/images/rtabmap_demo.png)
+
 ## Overview  
 This project is a part of Udacity's Robotics Software Engineer Nanodegree Program. In this project, I used [ROSbot](https://github.com/husarion/rosbot_description) as a mobile robot and [aws-robomaker-small-house-world](https://github.com/aws-robotics/aws-robomaker-small-house-world) as a gazebo world to replicate realistic simulation. RTAB-Map (Real-Time Appearance-Based Mapping) is a popular solution for SLAM to develop robots that can map environments in 3D. RTAB-Map has good speed and memory management, and it provides custom developed tools for information analysis. Most importantly, the quality of the documentation on ROS Wiki (http://wiki.ros.org/rtabmap_ros) is very high. This project uses the rtabmap_ros package, which is a ROS wrapper (API) for interacting with RTAB-Map.
 

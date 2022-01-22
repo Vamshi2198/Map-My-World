@@ -79,7 +79,6 @@ sudo apt-get install ros-${ROS_DISTRO}-rtabmap-ros
 │   │   │   ├── worlds                         # world folder for world files
 │   │   │   │   ├── empty.world
 │   │   │   ├── CMakeLists.txt                 # compiler instructions
-│   │   │   │   ├── rtabmap.db                 # database
 │   │   │   ├── package.xml                    # package info
 ```
 ## How To Launch

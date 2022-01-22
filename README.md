@@ -132,7 +132,7 @@ $ roslaunch my_robot mapping.launch
 ```sh
 $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 ```
-* Remember to rename your ~/.ros/rtabmap.db before your next attempt since it will be deleted due to the launch file setting in mapping.launch. You can view my database [here](https://drive.google.com/file/d/1aieFTdsFdyVGMkGFAJHps43x_ZLenFFr/view?usp=sharing)
+* Remember to rename your ~/.ros/rtabmap.db before your next attempt since it will be deleted due to the launch file setting in mapping.launch. You can download my database [here](https://drive.google.com/file/d/1aieFTdsFdyVGMkGFAJHps43x_ZLenFFr/view?usp=sharing).
 
 The code was tested on the following specifications:
 - **Processor:** `Intel Core i7-10875H`
